@@ -1,4 +1,3 @@
-Kristian	
-Germany	
-Meta Front-End course
-
+Name: Suhana
+Location: Kolkata
+Course: Meta FrontEnd C2
